@@ -1,5 +1,7 @@
 # Clone página de venda do iPhone
 
+Acesse o projeto: https://v1tormiranda.github.io/iphone-product-page/
+
 Projeto de estudos em front-end desenvolvido para prática de HTML, CSS e JavaScript.
 
 A aplicação simula uma página de venda do iPhone 13, contendo estrutura de página, estilização e interações básicas com JavaScript.
